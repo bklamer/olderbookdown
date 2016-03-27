@@ -1,3 +1,3 @@
 # Bookdown
 
-The bookdown package is used to power http://adv-r.had.co.nz
+An old fork of Hadley's oldbookdown so that adv-r will compile. Not useful for anything else...
